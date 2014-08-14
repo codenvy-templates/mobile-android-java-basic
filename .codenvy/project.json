@@ -1,1 +1,1 @@
-{"type":"maven","properties":[{"name":"builder.name","value":["maven"]}, {"name":"runner.name","value":["Android"]}]}
+{"type":"maven","properties":[{"name":"builder.name","value":["maven"]},{"name":"runner.name","value":["java-mobile-android"]}]}
