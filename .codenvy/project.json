@@ -1,1 +1,1 @@
-{"attributes":{},"projectTypeId":"maven","builder":"maven","runner":"java-mobile-android","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":null,"builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
+{"type":"maven","attributes":{},"builders":{"default":"maven"},"runners":{"default":"java-mobile-android","configs":{}}}
