@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{},"builders":{"default":"maven"},"runners":{"default":"java-mobile-android","configs":{}}}
+{"type":"maven","attributes":{},"runners":{"default":"system:/java-mobile-android/default","configs":{}},"builders":{"default":"maven"}}
